@@ -1,2 +1,1 @@
-# CIDM6325
-Repo for CIDM 6325
+# CIDM6325 — Smart Pantry Tracker
