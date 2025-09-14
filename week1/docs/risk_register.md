@@ -1,4 +1,3 @@
-md
 # Smart Pantry Tracker - Risk Register
 
 | Risk | Impact | Likelihood | Mitigation |
