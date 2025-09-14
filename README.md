@@ -14,6 +14,7 @@ This 2-week deliverable was supported by AI tools, specifically ChatGPT-5, in se
 - **System Sketch:** Prompts to help adjust and debug system sketch issues in Mermaid syntax.
 - **Evidence Base:** Prompts in reformating the Evidence Base with authoritative sources in GitHub-friendly APA format.  
 - **AI lightweight:** Prompts to better understand how AI micro summmarizer feature will flow within the application.
-- **Writing Support:** Prompt to find synonyms of different words to better structure my sentences. 
+- **Scope:** Prompts for out-of-scope recommendations and gain a better understanding about those.
+- **Writing Support:** Prompts to find synonyms of different words to better structure my sentences. 
 
 AI results were not always accurate and sometimes would generate information that did not align with my project pitch. I have reviewed and made plenty of edits to all the information in my final content.
