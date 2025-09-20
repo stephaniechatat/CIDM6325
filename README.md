@@ -7,6 +7,11 @@
 - 📚 **Evidence Base:** [week1/docs/evidence_base.md](week1/docs/evidence_base.md)
 - ⚠️ **Risk Register:** [week1/docs/risk_register.md](week1/docs/risk_register.md)
 
+# Week 2 Deliverables
+
+## Quick Links
+- ⚙️ **PRD(Product Requirements Documents):** [week2/docs/PRD.md](week2/docs/PRD.md)
+
 ## Working with AI
 This 2-week deliverable was supported by AI tools, specifically ChatGPT-5, in several key ways. AI assistance was used to:
 - **Version control guidance:** Prompts that provided Git/GitHub commands for resolving some conflicts and pushing changes to repo.  
