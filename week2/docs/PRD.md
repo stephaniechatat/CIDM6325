@@ -9,7 +9,7 @@
 - Version: 0.1 (Draft)
 
 ## 2. Overview
-- Summary: One paragraph on what this is and why it matters.
+
 ### Summary
 Smart Pantry Tracker is a web application that is designed to minimize food waste and streamline meal planning by connecting pantry visibility with recipe intelligence. It empowers users to reduce waste by using ingredients before expiration, discover immediate **Cook Now** recipes, and receive **Near Match** suggestions backed by credible substitutions. By combining practicality with decision support, it improves usability, reduces waste, and delivers
 transparent substitution guidance that builds confidence in everyday cooking.
@@ -78,11 +78,11 @@ Unlike these existing tools, Smart Pantry Tracker integrates multiple missing el
 - **Substitution rules module:** curated dataset of common ingredient swaps.  
 - **Recipe data:** seeded set of recipes in the database (no scraping required).  
 - **AI summarizer (lightweight):** generates 2-3 sentence user-friendly plans for Near Match results,
-  using only curated substitutions and citations.  
+using only curated substitutions and citations.  
 - **Evidence Drawer:** panel that discloses substitution sources, expiration guidance, and matching
-  assumptions.  
+assumptions.  
 - **Documentation in `/docs/`:** captures assumptions (substitution rules, expiration logic),
-  formulas (matching algorithm), and iteration notes.
+formulas (matching algorithm), and iteration notes.
 
 ### Out of Scope
 - Barcode scanning or automated grocery ingestion. 
@@ -224,13 +224,13 @@ The system must handle common edge cases, including no matching recipes and expi
 - **FR-002: Recipe Matching Engine** passes when the system consistently separates 
 recipes into **Cook Now** (100% match) and **Near Match** (≤2 items missing with substitutions).
 
-**FR-003: Substitution Rules Module** passes when Near Match suggestions use only curated rules, and ≥80% of substitutions are judged helpful in user testing.  
+- **FR-003: Substitution Rules Module** passes when Near Match suggestions use only curated rules, and ≥80% of substitutions are judged helpful in user testing.  
 
-**FR-004: Evidence Drawer** passes when ≥80% of substitution and expiration explanations display at least one authoritative source link.  
+- **FR-004: Evidence Drawer** passes when ≥80% of substitution and expiration explanations display at least one authoritative source link.  
 
-**FR-005: AI Summarizer (Lightweight)** passes when Near Match results include a 2–3 sentence summary that references available substitutions without introducing any unsupported rules.  
+- **FR-005: AI Summarizer (Lightweight)** passes when Near Match results include a 2–3 sentence summary that references available substitutions without introducing any unsupported rules.
 
-**FR-006: Error Handling** passes when the system:  
+- **FR-006: Error Handling** passes when the system:  
 1) Displays a clear and user-friendly message if no Cook Now or Near Match recipes are available.  
 2) Excludes recipes containing expired ingredients and clearly explains why in the Evidence Drawer.
 
