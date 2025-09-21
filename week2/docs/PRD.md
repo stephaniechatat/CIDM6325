@@ -230,9 +230,7 @@ recipes into **Cook Now** (100% match) and **Near Match** (≤2 items missing wi
 
 - **FR-005: AI Summarizer (Lightweight)** passes when Near Match results include a 2–3 sentence summary that references available substitutions without introducing any unsupported rules.
 
-- **FR-006: Error Handling** passes when the system:  
-1) Displays a clear and user-friendly message if no Cook Now or Near Match recipes are available.  
-2) Excludes recipes containing expired ingredients and clearly explains why in the Evidence Drawer.
+- **FR-006: Error Handling** passes when the system displays a user-friendly message if no Cook Now or Near Match recipes are available and excludes recipes containing expired ingredients with an explanation in the Evidence Drawer.
 
 ## 11. Success Metrics
 
