@@ -21,7 +21,7 @@ This deliverable is supported by AI tools, specifically ChatGPT-5, in several ke
 - **AI lightweight:** Prompts to better understand how AI micro summmarizer feature will flow within the application.
 - **Scope:** Prompts for out-of-scope recommendations and gain a better understanding about those.
 - **Writing Support:** Prompts to find synonyms of different words to better structure my sentences.
-- **Markdown Syntax:** Promts for various markdown formatting syntax in the PRD.
+- **Markdown Syntax:** Prompts for various markdown formatting syntax in the PRD.
 - **Identifying Competitors**: Prompts to help find competitors with similar application specs, their differences and links.
 - **Future Iterations**: Prompts to better understand feasibility of future iterations.
 - **Open Questions**: Prompts to  gain a better understanding of my open questions.
