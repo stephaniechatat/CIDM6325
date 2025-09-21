@@ -3,7 +3,7 @@
 
 ## 1. Document Information
 - Product/Feature Name: Smart Pantry Tracker
-- Author(s): Stephanie Chattat
+- Author: Stephanie Chattat
 - Date Created: 2025-09-20
 - Last Updated: 2025-09-20
 - Version: 0.1 (Draft)
