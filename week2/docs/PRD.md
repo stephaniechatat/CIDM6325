@@ -293,13 +293,13 @@ better understand substitutions and expiration logic without external training.
 - Cooklist: <https://www.cooklist.com/>  
 
 **Evidence Base:**
-U.S. Department of Agriculture (2024). Food Product Dating. 
+- U.S. Department of Agriculture (2024). Food Product Dating. 
 <https://www.fsis.usda.gov/food-labeling/food-product-dating> 
-U.S. Food and Drug Administration & USDA (2024). Proposed rule on food date 
+- U.S. Food and Drug Administration & USDA (2024). Proposed rule on food date 
 labeling. <https://www.federalregister.gov/> 
-ReFED (2025). Food Waste Insights Engine. <https://refed.org/>
-Harvard Food Law & Policy Clinic (2025). Consumer perceptions of date labels and 
+- ReFED (2025). Food Waste Insights Engine. <https://refed.org/>
+- Harvard Food Law & Policy Clinic (2025). Consumer perceptions of date labels and 
 food waste. <https://chlpi.org/> 
-North Dakota State University Extension (2024). Ingredient Substitutions. 
+- North Dakota State University Extension (2024). Ingredient Substitutions. 
 <https://www.ndsu.edu/agriculture/extension>
-U.S. Department of Agriculture (2025). FoodData Central. <https://fdc.nal.usda.gov/>
+- U.S. Department of Agriculture (2025). FoodData Central. <https://fdc.nal.usda.gov/>
